@@ -1,0 +1,5 @@
+{
+  "name": "Digital Doctor - Offline Practice Management",
+  "description": "An offline-first electronic health record (EHR) and practice management application for doctors. It supports patient management, appointment scheduling, prescription writing, clinical analysis, and reporting, with full support for English and Dari languages.",
+  "requestFramePermissions": []
+}
